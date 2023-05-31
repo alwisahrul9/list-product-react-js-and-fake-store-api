@@ -1,7 +1,7 @@
 {
   "name": "fake-api-product",
   "version": "0.1.0",
-  "homepage": "http://alwisahrul9.github.io/todolist-with-react-js",
+  "homepage": "http://alwisahrul9.github.io/list-product-react-js-and-fake-store-api",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
